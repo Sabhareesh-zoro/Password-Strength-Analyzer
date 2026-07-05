@@ -144,9 +144,6 @@ This project helped me understand:
 
 **Sabhareesh U S**
 
-LinkedIn: https://www.linkedin.com/in/YOUR-LINKEDIN
-
-GitHub: https://github.com/YOUR_GITHUB_USERNAME
 
 ---
 
